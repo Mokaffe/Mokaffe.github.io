@@ -1,17 +1,17 @@
 # Site settings
 title: Mokaffe Blog
-SEOTitle: 从心的博客 | Mokaffe Blog
+SEOTitle: 人人又寸的博客 | Mokaffe Blog
 header-img: img/post-bg-desk.jpg
 email: mokaffebao@gmail.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
+keyword: "Mokaffe, Mokaffe Blog"
 url: "https://mokaffe.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/Mokaffe/Mokaffe.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "2019，从心❤️"
+sidebar-about-description: "2019，人人又寸心❤️"
 sidebar-avatar: /img/mokaffe_img.jpg     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
